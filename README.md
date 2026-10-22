@@ -1,16 +1,136 @@
-# React + Vite
+# React and Next.js Practical Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 📌 Project Overview
 
-Currently, two official plugins are available:
+This project is a practical assignment based on **React and Next.js**. It includes different tasks to understand React components, props, state management, JavaScript operators, and Next.js page navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project contains a Student Information Manager built using React and a separate student information project built using Next.js and TypeScript.
 
-## React Compiler
+## 🎯 Tasks Completed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Task 1: Project Setup
+- Created a React project using Vite.
+- Created a Next.js project using TypeScript.
+- Ran both projects in the browser.
 
-## Expanding the Oxlint configuration
+### Task 2: Header, Welcome and Footer
+- Created a header with the project title.
+- Added a welcome message and student information.
+- Added an image and CSS styling.
+- Created a footer.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Task 3: Rest and Spread Operators
+- Practised the rest operator.
+- Practised the spread operator.
+- Learned how to work with arrays and objects.
+
+### Task 4: Student Cards Using Props
+- Created a reusable Student Card component.
+- Passed student details using props.
+- Displayed five student cards with different information.
+
+### Task 5: useState Examples
+- Practised the `useState` hook.
+- Worked with strings, numbers, booleans, arrays, and objects.
+- Added buttons to update and reset values.
+
+### Task 6: Student Information Manager
+- Created an input field for student information.
+- Added an Add Student button.
+- Practised user interaction in React.
+
+### Task 7: Next.js Project
+- Created a Student Information Manager home page.
+- Displayed five student cards.
+- Used reusable components, props, and array mapping.
+- Created an About Project page.
+- Added navigation between the Home and About pages.
+- Used Next.js and TypeScript.
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Next.js
+- TypeScript
+
+## 📂 Project Features
+
+- Student information display
+- Reusable student cards
+- Props for passing data
+- State management using `useState`
+- Rest and spread operators
+- Array mapping
+- Responsive and styled user interface
+- Navigation between pages in Next.js
+
+## ▶️ How to Run the Project
+
+### React Project
+
+1. Open the React project folder in Visual Studio Code.
+2. Open the terminal.
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in the terminal.
+
+### Next.js Project
+
+1. Open the Next.js project folder in Visual Studio Code.
+2. Open the terminal.
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in the terminal.
+
+## 🎥 Video Explanation
+
+**Video Explanation Link:** [Add Your Video Link Here](YOUR_VIDEO_LINK_HERE)
+
+The video explains the project setup, all seven practical tasks, the Student Information Manager, student cards, `useState`, and Next.js page navigation.
+
+## 📚 Learning Outcomes
+
+Through this practical assignment, I learned:
+
+- How to create React and Next.js projects.
+- How to use components and props.
+- How to manage data using the `useState` hook.
+- How to work with arrays and objects.
+- How to use rest and spread operators.
+- How to display data using array mapping.
+- How to style pages using CSS.
+- How to navigate between pages in Next.js.
+
+## 👩‍💻 Created By
+
+**Name:** Asha Mishra
+
+**Assignment:** React and Next.js Practical Assignment
+
+---
+
+Thank you for visiting my project!
