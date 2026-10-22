@@ -108,7 +108,7 @@ The project contains a Student Information Manager built using React and a separ
 
 ## 🎥 Video Explanation
 
-**Video Explanation Link:** [Add Your Video Link Here](YOUR_VIDEO_LINK_HERE)
+**Video Explanation Link:** [Add Your Video Link Here]("C:\Users\Asha\Downloads\Video .mp4")
 
 The video explains the project setup, all seven practical tasks, the Student Information Manager, student cards, `useState`, and Next.js page navigation.
 
